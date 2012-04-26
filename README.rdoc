@@ -1,0 +1,10 @@
+== Ext.ux.touch.Leaflet
+
+A Component that can display Leaflet maps
+
+= Sample Usage
+
+  {
+    xtype: 'leafletmap',
+    useCurrentLocation: true
+  }
